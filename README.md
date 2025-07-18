@@ -60,8 +60,7 @@ Link to Repo
 
 📊 My GitHub Stats
 <p align="center">
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DRudraJad2005%26show_icons%3Dtrue%26locale%3Den%26theme%3Dradical" alt="RudraJad2005's GitHub Stats" />
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3DRudraJad2005%26layout%3Dcompact%26locale%3Den%26theme%3Dradical" alt="Top Languages" />
+  <img src="https://placehold.co/800x200/6366f1/ffffff?text=Welcome+to+my+GitHub+Profile!" alt="Header Banner"/>
 </p>
 
 🤝 Connect with Me
