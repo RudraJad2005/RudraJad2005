@@ -51,15 +51,15 @@ Here are some of the projects I'm proud of. You can find more on my repositories
 
 🤝 Connect with Me
 <p align="center">
-<a href="https://www.google.com/search?q=https://linkedin.com/in/your-linkedin-profile">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dlinkedin" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://www.google.com/search?q=https://twitter.com/your-twitter-handle">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dtwitter" alt="Twitter"/>
-</a>
-&nbsp;
-<a href="mailto:youremail@example.com">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgmail" alt="Gmail"/>
-</a>
+  <a href="https://www.linkedin.com/in/rudra-jadhav-25a257258/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/rudra_jad_/">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
+  </a>
+  &nbsp;
+  <a href="mailto:youremail@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+  </a>
 </p>
