@@ -35,29 +35,12 @@ Here are some of the technologies I've been working with:
 🚀 My Projects
 Here are some of the projects I'm proud of. You can find more on my repositories page!
 
-Project Name
+| Project Name                                                 | Description                                                                                                   |
+| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- |
+| **[Portfolio Website](https://github.com/RudraJad2005/Portfolio)** | A brief and exciting description of your project. What does it do? What technologies did you use?             |
+| **[Notes App](https://github.com/RudraJad2005/Notes-App)** | A simple and intuitive application for taking and managing notes, built with [mention tech].                    |
+| **[Expense Tracker](https://github.com/RudraJad2005/Expense-Tracker)** | A tool to help you keep track of your expenses and manage your budget, built with [mention tech].             |
 
-Description
-
-Link
-
-Project 1
-
-A brief and exciting description of your project. What does it do? What technologies did you use?
-
-Link to Repo
-
-Project 2
-
-A brief and exciting description of your project. What does it do? What technologies did you use?
-
-Link to Repo
-
-Project 3
-
-A brief and exciting description of your project. What does it do? What technologies did you use?
-
-Link to Repo
 
 📊 My GitHub Stats
 
