@@ -26,11 +26,10 @@ Here are some of the technologies I've been working with:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,mongodb,mysql,git,github,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,mongodb,mysql,git,github,vscode,figma,django" />
   </a>
 </p>
 
-(You can customize the icons by visiting skillicons.dev and adding the names of the technologies you use to the URL)
 
 🚀 My Projects
 Here are some of the projects I'm proud of. You can find more on my repositories page!
