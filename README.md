@@ -15,7 +15,7 @@ I'm a passionate developer from India, currently exploring the world of software
 
 💬 Ask me about ... [Python, Numpy, Scrapy, Django, React.js, Java, Js]
 
-📫 How to reach me: ... [rudrajad2005@gmail.com]
+📫 How to reach me: ... [**My LinkedIn Profile**](https://www.linkedin.com/in/rudra-jadhav)
 
 😄 Pronouns: ... He/Him
 
