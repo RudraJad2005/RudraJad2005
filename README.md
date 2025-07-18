@@ -10,13 +10,11 @@ I'm a passionate developer from India, currently exploring the world of software
 
 🌱 I’m currently learning ... [Mention a technology, framework, or language]
 
-👯 I’m looking to collaborate on ... [Mention types of projects you're interested in]
+👯 I’m looking to collaborate on ... [ML Projects, IoT, OSS's]
 
-🤔 I’m looking for help with ... [Mention something you're stuck on or want mentorship for]
+💬 Ask me about ... [Python, Numpy, Scrapy, Django, React.js, Java, Js]
 
-💬 Ask me about ... [Mention topics you're knowledgeable or passionate about]
-
-📫 How to reach me: ... [Add your email or other contact info]
+📫 How to reach me: ... [rudrajad2005@gmail.com]
 
 😄 Pronouns: ... He/Him
 
