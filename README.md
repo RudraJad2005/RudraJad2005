@@ -37,7 +37,7 @@ Here are some of the projects I'm proud of. You can find more on my repositories
 | Project Name                                                 | Description                                                                                                   |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- |
 | **[Portfolio Website](https://github.com/RudraJad2005/Portfolio)** | A brief and exciting description of your project. What does it do? What technologies did you use?             |
-| **[AQI App]([https://github.com/RudraJad2005/Notes-App](https://github.com/RudraJad2005/AirView))** | A simple and intuitive application for taking and managing notes, built with [mention tech].                    |
+| **[AQI App]((https://github.com/RudraJad2005/AirView))** | A simple and intuitive application for taking and managing notes, built with [mention tech].                    |
 | **[Expense Tracker](https://github.com/RudraJad2005/Expense-Tracker)** | A tool to help you keep track of your expenses and manage your budget, built with [mention tech].             |
 
 
