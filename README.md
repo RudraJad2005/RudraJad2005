@@ -1,7 +1,8 @@
 Hi there, I'm Rudra! 👋
 <p align="center">
-<img src="https://www.google.com/search?q=https://placehold.co/800x200/6366f1/ffffff%3Ftext%3DWelcome%2Bto%2Bmy%2BGitHub%2BProfile!" alt="Header Banner"/>
+  <img src="https://placehold.co/800x200/6366f1/ffffff?text=Welcome+to+my+GitHub+Profile!" alt="Header Banner"/>
 </p>
+
 
 I'm a passionate developer from India, currently exploring the world of software development and open source.
 
@@ -59,9 +60,6 @@ A brief and exciting description of your project. What does it do? What technolo
 Link to Repo
 
 📊 My GitHub Stats
-<p align="center">
-  <img src="https://placehold.co/800x200/6366f1/ffffff?text=Welcome+to+my+GitHub+Profile!" alt="Header Banner"/>
-</p>
 
 🤝 Connect with Me
 <p align="center">
