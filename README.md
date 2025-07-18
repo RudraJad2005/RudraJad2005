@@ -25,9 +25,9 @@ I'm a passionate developer from India, currently exploring the world of software
 Here are some of the technologies I've been working with:
 
 <p align="left">
-<a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djava,python,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,figma" />
-</a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,mongodb,mysql,git,github,vscode,figma" />
+  </a>
 </p>
 
 (You can customize the icons by visiting skillicons.dev and adding the names of the technologies you use to the URL)
@@ -61,10 +61,9 @@ Link to Repo
 
 📊 My GitHub Stats
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,figma" />
-  </a>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RudraJad2005&show_icons=true&locale=en&theme=radical" alt="RudraJad2005's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RudraJad2005&layout=compact&locale=en&theme=radical" alt="Top Languages" />
 </p>
 
 🤝 Connect with Me
