@@ -8,38 +8,59 @@ I'm a passionate developer from India, currently exploring the world of software
 
 ---
 
+<table>
+<tr>
+<td valign="top" width="60%">
+
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **enhancing my skills in the MERN stack.**
-- 🌱 I’m currently learning **advanced concepts in React and Node.js.**
-- 👯 I’m looking to collaborate on **open-source projects related to web development.**
-- 💬 Ask me about **HTML, CSS, JavaScript, and React.**
-- 📫 How to reach me: [**My LinkedIn Profile**](https://www.linkedin.com/in/rudra-jadhav-25a257258/)
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I love to create 3D models and play video games in my free time!**
+I'm a passionate developer from India, currently exploring the world of software development and open source.
 
----
+- 🔭 I’m currently working on enhancing my skills in the **MERN stack**.
+- 🌱 I’m currently learning **advanced concepts in React and Node.js**.
+- 👯 I’m looking to collaborate on **open-source projects related to web development**.
+- 💬 Ask me about **HTML, CSS, JavaScript, and React**.
+
+</td>
+<td valign="top" width="40%">
 
 ### 🛠️ My Skills
-
-Here are some of the technologies I've been working with:
-
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,figma&perline=4" />
   </a>
 </p>
+
+</td>
+</tr>
+</table>
 
 
 🚀 My Projects
 Here are some of the projects I'm proud of. You can find more on my repositories page!
 
-| Project Name                                                 | Description                                                                                                   |
-| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- |
-| **[Portfolio Website](https://github.com/RudraJad2005/Portfolio)** | A brief and exciting description of your project. What does it do? What technologies did you use?             |
-| **[AQI App](https://github.com/RudraJad2005/AirView)** | A simple and intuitive application for taking and managing notes, built with [mention tech].                    |
-| **[Discord Bot](https://github.com/RudraJad2005/Utility-Bot)** | A tool to help you keep track of your expenses and manage your budget, built with [mention tech].             |
-
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Portfolio Website</h3>
+      <br />
+      <a href="https://github.com/RudraJad2005/Portfolio">
+        <img src="https://via.placeholder.com/400x200.png/6366f1/ffffff?text=Project+Screenshot" alt="Project Screenshot" width="100%"/>
+      </a>
+      <br />
+      <p>My personal portfolio to showcase my projects and skills, built with React.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Expense Tracker</h3>
+      <br />
+      <a href="https://github.com/RudraJad2005/Expense-Tracker">
+         <img src="https://via.placeholder.com/400x200.png/6366f1/ffffff?text=Project+Screenshot" alt="Project Screenshot" width="100%"/>
+      </a>
+      <br />
+      <p>A tool to help you keep track of your expenses and manage your budget.</p>
+    </td>
+  </tr>
+</table>
 
 📊 My GitHub Stats
 
