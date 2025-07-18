@@ -61,6 +61,12 @@ Link to Repo
 
 📊 My GitHub Stats
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,figma" />
+  </a>
+</p>
+
 🤝 Connect with Me
 <p align="center">
 <a href="https://www.google.com/search?q=https://linkedin.com/in/your-linkedin-profile">
