@@ -4,7 +4,7 @@
   <img src="https://placehold.co/800x200/6366f1/ffffff?text=Welcome+to+my+GitHub+Profile!" alt="Header Banner"/>
 </p>
 
-I'm a passionate developer from India, currently exploring the world of software development and open source.
+I'm a passionate developer from India, currently exploring the world of machine learning and open source.
 
 ---
 
