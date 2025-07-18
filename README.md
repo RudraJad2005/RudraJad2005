@@ -73,7 +73,7 @@ Here are some of the projects I'm proud of. You can find more on my repositories
 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rudra-jadhav-25a257258/">
+  <a href="www.linkedin.com/in/rudra-jadhav">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
   &nbsp;
