@@ -45,19 +45,20 @@ Here are some of the projects I'm proud of. You can find more on my repositories
       <h3 align="center">Portfolio Website</h3>
       <br />
       <a href="https://github.com/RudraJad2005/Portfolio">
-       <img width="362" height="693" alt="Airview" src="https://github.com/user-attachments/assets/522c9789-12ad-4681-88c1-a77082943e7f" />
+         <img width="1249" height="700" alt="PortfolioWebite" src="https://github.com/user-attachments/assets/a3a89758-64a1-48cb-b94f-0b75231ff392" />
       </a>
       <br />
       <p>My personal portfolio to showcase my projects and skills, built with React.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Expense Tracker</h3>
+      <h3 align="center">AirView</h3>
       <br />
       <a href="https://github.com/RudraJad2005/Expense-Tracker">
-         <img src="https://via.placeholder.com/400x200.png/6366f1/ffffff?text=Project+Screenshot" alt="Project Screenshot" width="100%"/>
+       <img width="356" height="695" alt="AirView" src="https://github.com/user-attachments/assets/461534bf-aef0-47dd-adc7-1b69be47791d" />
       </a>
       <br />
-      <p>A tool to help you keep track of your expenses and manage your budget.</p>
+      <br>
+      <p>An app to track and monitor the air quality around you.</p>
     </td>
   </tr>
 </table>
@@ -70,6 +71,7 @@ Here are some of the projects I'm proud of. You can find more on my repositories
 </p>
 
 🤝 Connect with Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/rudra-jadhav-25a257258/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
@@ -83,3 +85,4 @@ Here are some of the projects I'm proud of. You can find more on my repositories
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
   </a>
 </p>
+
