@@ -45,7 +45,7 @@ Here are some of the projects I'm proud of. You can find more on my repositories
       <h3 align="center">Portfolio Website</h3>
       <br />
       <a href="https://github.com/RudraJad2005/Portfolio">
-        <img src="https://via.placeholder.com/400x200.png/6366f1/ffffff?text=Project+Screenshot" alt="Project Screenshot" width="100%"/>
+       <img width="362" height="693" alt="Airview" src="https://github.com/user-attachments/assets/522c9789-12ad-4681-88c1-a77082943e7f" />
       </a>
       <br />
       <p>My personal portfolio to showcase my projects and skills, built with React.</p>
