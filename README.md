@@ -16,7 +16,7 @@ I'm a passionate developer from India, currently exploring the world of machine 
 
 I'm a passionate developer from India, currently exploring the world of software development and open source.
 
-- 🔭 I’m currently working on enhancing my skills in the **MERN stack**.
+- 🔭 I’m currently working on enhancing my skills in the **Tenser flow, Pytorch**.
 - 🌱 I’m currently learning **advanced concepts in React and Node.js**.
 - 👯 I’m looking to collaborate on **open-source projects related to web development**.
 - 💬 Ask me about **HTML, CSS, JavaScript, and React**.
