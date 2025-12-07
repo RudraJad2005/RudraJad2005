@@ -45,7 +45,8 @@ Here are some of the projects I'm proud of. You can find more on my repositories
       <h3 align="center">Clustering Antarctic Penguin Species</h3>
       <br />
       <a href="https://github.com/RudraJad2005/Portfolio">
-         <img width="2560" height="1528" alt="Screenshot 2025-12-07 125459" src="https://github.com/user-attachments/assets/1c6b59ee-904f-430d-a557-39172ba90fde" />
+        <img width="1280" height="698" alt="Screenshot 2025-12-07 125459" src="https://github.com/user-attachments/assets/2c51e5b9-d1b1-42f3-9716-943282ff9335" />
+        <img width="1280" height="697" alt="Screenshot 2025-12-07 130059" src="https://github.com/user-attachments/assets/fb489537-70e0-4107-9a31-711e09a583df" />
       </a>
       <br />
       <p>My personal portfolio to showcase my projects and skills, built with React.</p>
@@ -76,5 +77,7 @@ ns?i=instagram" alt="Instagram"/>
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
   </a>
 </p>
+
+
 
 
