@@ -42,23 +42,13 @@ Here are some of the projects I'm proud of. You can find more on my repositories
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Portfolio Website</h3>
+      <h3 align="center">Clustering Antarctic Penguin Species</h3>
       <br />
       <a href="https://github.com/RudraJad2005/Portfolio">
-         <img width="1249" height="700" alt="PortfolioWebite" src="https://github.com/user-attachments/assets/a3a89758-64a1-48cb-b94f-0b75231ff392" />
+         <img width="2560" height="1528" alt="Screenshot 2025-12-07 125459" src="https://github.com/user-attachments/assets/1c6b59ee-904f-430d-a557-39172ba90fde" />
       </a>
       <br />
       <p>My personal portfolio to showcase my projects and skills, built with React.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">AirView</h3>
-      <br />
-      <a href="https://github.com/RudraJad2005/Expense-Tracker">
-       <img width="356" height="695" alt="AirView" src="https://github.com/user-attachments/assets/461534bf-aef0-47dd-adc7-1b69be47791d" />
-      </a>
-      <br />
-      <br>
-      <p>An app to track and monitor the air quality around you.</p>
     </td>
   </tr>
 </table>
@@ -78,11 +68,13 @@ Here are some of the projects I'm proud of. You can find more on my repositories
   </a>
   &nbsp;
   <a href="https://www.instagram.com/rudra_jad_/">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
+    <img src="https://skillicons.dev/ico<img width="2560" height="1528" alt="Screenshot 2025-12-07 125459" src="https://github.com/user-attachments/assets/62656ec7-2d38-4e19-9c9a-a8d8d01ff55a" />
+ns?i=instagram" alt="Instagram"/>
   </a>
   &nbsp;
   <a href="mailto:youremail@example.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
   </a>
 </p>
+
 
