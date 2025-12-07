@@ -27,7 +27,7 @@ I'm a passionate developer from India, currently exploring the world of software
 ### 🛠️ My Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,figma&perline=4" />
+    <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,mongodb,mysql,git,github,vscode&perline=4" />
   </a>
 </p>
 
