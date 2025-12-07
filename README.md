@@ -49,7 +49,7 @@ Here are some of the projects I'm proud of. You can find more on my repositories
         <img width="1280" height="697" alt="Screenshot 2025-12-07 130059" src="https://github.com/user-attachments/assets/fb489537-70e0-4107-9a31-711e09a583df" />
       </a>
       <br />
-      <p>My personal portfolio to showcase my projects and skills, built with React.</p>
+      <p>My personal portfolio to showcase my projects and skills.</p>
     </td>
   </tr>
 </table>
