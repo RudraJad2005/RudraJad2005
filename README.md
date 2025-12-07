@@ -53,31 +53,3 @@ Here are some of the projects I'm proud of. You can find more on my repositories
     </td>
   </tr>
 </table>
-
-📊 My GitHub Stats
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RudraJad2005&show_icons=true&locale=en&theme=radical" alt="RudraJad2005's GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RudraJad2005&layout=compact&locale=en&theme=radical" alt="Top Languages" />
-</p>
-
-🤝 Connect with Me
-
-<p align="center">
-  <a href="www.linkedin.com/in/rudra-jadhav">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/rudra_jad_/">
-    <img src="https://skillicons.dev/ico<img width="2560" height="1528" alt="Screenshot 2025-12-07 125459" src="https://github.com/user-attachments/assets/62656ec7-2d38-4e19-9c9a-a8d8d01ff55a" />
-ns?i=instagram" alt="Instagram"/>
-  </a>
-  &nbsp;
-  <a href="mailto:youremail@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
-  </a>
-</p>
-
-
-
-
