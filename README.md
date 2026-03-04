@@ -18,7 +18,7 @@ I'm a passionate developer from India, currently exploring the world of software
 
 - 🔭 I’m currently working on enhancing my skills in the **AI/ML**.
 - 🌱 I’m currently learning **Tensor flow, Pytorch, pandas**.
-- 👯 I’m looking to collaborate on **open-source projects related to web development**.
+- 👯 I’m looking to collaborate on **open-source projects related to Ai development**.
 - 💬 Ask me about **HTML, CSS, JavaScript, and Python**.
 
 </td>
