@@ -56,7 +56,7 @@ Mindset   :: Excited to explore more fields in AI
 
 ### 🤖 Analyzing-Car-Reviews-with-LLMs
 
-Building a Large Language Model completely from scratch — tokenization, attention mechanisms, transformer architecture, training & inference.
+This is a mini project focused on using Large Language Models (LLMs) to analyze car reviews. It likely includes tasks such as sentiment analysis, translation, or feature extraction from natural language text.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
