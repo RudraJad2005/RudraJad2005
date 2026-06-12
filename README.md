@@ -54,7 +54,7 @@ Mindset   :: Excited to explore more fields in AI
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 LLM-from-Scratch
+### 🤖 Analyzing-Car-Reviews-with-LLMs
 
 Building a Large Language Model completely from scratch — tokenization, attention mechanisms, transformer architecture, training & inference.
 
@@ -62,7 +62,7 @@ Building a Large Language Model completely from scratch — tokenization, attent
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat)
 
-[Repository ↗](https://github.com/RudraJad2005/LLM-from-scratch)
+[Repository ↗](https://github.com/RudraJad2005/Analyzing-Car-Reviews-with-LLMs.git)
 
 </td>
 <td width="50%" valign="top">
